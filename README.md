@@ -95,15 +95,15 @@ php -S localhost:8000
 
 ### Ảnh 1: Giao diện login
 
-![Giao diện login](docs/screenshots/login.jpg)
+![Giao diện login](docs\screenshots\login.png)
 
 ### Ảnh 2: Giao diện trang admin
 
-![Giao diện admin](docs/screenshots/admin-dashboard.svg)
+![Giao diện admin](docs\screenshots\admin.png)
 
 ### Ảnh 3: Giao diện trang sản phẩm
 
-![Giao diện trang sản phẩm](docs/screenshots/product-page.png)
+![Giao diện trang sản phẩm](docs\screenshots\product.png)
 
 ## Thông tin cấu trúc chính
 
