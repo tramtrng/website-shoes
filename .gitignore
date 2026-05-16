@@ -1,0 +1,24 @@
+# Ignore config with credentials
+admin/admin/config/dbconfig.php
+
+# Ignore uploads and generated files
+uploads/
+admin/admin/uploads/
+admin/USERS/uploads/
+
+# Ignore vendor and build artifacts
+admin/admin/vendor/
+admin/carbon/vendor/
+
+# Editor and environment
+.vscode/
+.venv/
+
+# Database dumps and logs
+doancs2_shoes (3).sql
+*.log
+*.env
+
+# OS files
+Thumbs.db
+.DS_Store
